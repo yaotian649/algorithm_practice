@@ -148,3 +148,9 @@ int binarySearch(int[] nums, int target, int low, int high){
 	}	
 }
 ```
+
+# Greedy 贪婪算法
+## 例子
+贪婪物品有：A B C  
+重量分别是：25 10 10  
+价值分别是：100 80 80  
